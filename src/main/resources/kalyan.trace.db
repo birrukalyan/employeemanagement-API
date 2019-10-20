@@ -1,0 +1,9 @@
+2019-10-11 15:42:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALIEN" not found; SQL statement:
+select * from alien [42102-199]
+2019-10-11 15:42:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALIEN" not found; SQL statement:
+select * from alien [42102-199]
+2019-10-11 15:42:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ALIEN" not found; SQL statement:
+select * from alien [42102-199]
